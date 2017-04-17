@@ -361,25 +361,7 @@ I used a heatmap queue implementation with thresholding to filter out false posi
 #### Provide a link to your final video output.
 The video output from the pipeline combined with the pipeline from the advance lane detection is shown below
 
-
-```python
-from IPython.display import YouTubeVideo
-YouTubeVideo('S83Pg0e4Lec')
-```
-
-
-
-
-
-        <iframe
-            width="400"
-            height="300"
-            src="https://www.youtube.com/embed/S83Pg0e4Lec"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
-        
-
+[![Result Video embedded from YouTube](http://img.youtube.com/vi/S83Pg0e4Lec/0.jpg)](https://www.youtube.com/watch?v=S83Pg0e4Lec)
 
 
 #### Discussion. Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?
